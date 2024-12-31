@@ -53,8 +53,8 @@ Welcome to my GitHub profile! I'm a software developer passionate about numerica
 - **Email**: [enduranceogun6@gmail.com]
 - **GitHub**: [https://github.com/Diospace](https://github.com/Diospace)
 - **LinkedIn**: [Endurance Ogun](https://www.linkedin.com/in/endurance-ogun-4b249321a)
-
-
+- **Instagram**:[My Instagram link
+https://www.instagram.com/codebit1024?igsh=MTlqY3k4b3lkYmU2dg==]
 
 <!--
 **Diospace/Diospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
